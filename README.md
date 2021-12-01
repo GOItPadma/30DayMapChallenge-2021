@@ -4,7 +4,7 @@ This repository is the collection of maps I created for the 30DayMapChallenge du
 <img src = "Logo/30dmpc_2021.png" width = 810/>
 For More Details: <a href="https://github.com/tjukanovt/30DayMapChallenge">30DayMapChallenge</a>. <br> <br>
 
-I started my journey with an aim to completing the challenge without any interruption. Meanwhile, suddenly I got a sudden leg ache. I was in bed rest for 10 days. So, I could not make all the maps. I used QGIS to produce the maps (except the Earth is not Flat). Here are the 17 maps I created throughout the challenge:
+I started my journey with an aim to completing the challenge without any interruption. Meanwhile, suddenly I got a sudden leg ache. I was in bed rest for 10 days. So, I could not make all the maps. I used QGIS to produce the maps (except the [Earth is not Flat](#the-earth-is-not-flat)). Here are the 17 maps I created throughout the challenge:
 
 ## Points 
 
