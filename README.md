@@ -1,5 +1,5 @@
 # 30DayMapChallenge-2021
-This repository is the collection of maps I created for the 30DayMapChallenge during November, 2021. #30DayMapChallenge is a daily spatial data visualization challenge launched by <a href="https://twitter.com/tjukanov">Topi Tjukanov</a>. One has to create maps on selected themes and publish on twitter. 
+This repository is the collection of maps I created for the 30DayMapChallenge during November, 2021. #30DayMapChallenge is a daily spatial data visualization challenge launched by <a href="https://twitter.com/tjukanov">Topi Tjukanov</a>. One has to create maps on selected themes and publish on twitter or any other social media platforms. 
 
 <img src = "Logo/30dmpc_2021.png" width = 810/>
 For More Details: <a href="https://github.com/tjukanovt/30DayMapChallenge">30DayMapChallenge</a>. <br> <br>
